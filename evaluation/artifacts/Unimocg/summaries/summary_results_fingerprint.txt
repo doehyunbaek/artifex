@@ -1,0 +1,264 @@
+===================================================================
+OPAL-0-CFA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 8/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 7/7
+Java 9+: 2/2
+Non-Java: 2/2
+MethodHandle: 9/9
+Invokedynamic: 11/16
+Reflection: 10/16
+JVM Calls: 3/5
+Serialization: 9/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 97 (78.86178861788618)
+-------------------------------------------------------------------
+===================================================================
+OPAL-1-1-CFA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 8/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 7/7
+Java 9+: 2/2
+Non-Java: 2/2
+MethodHandle: 9/9
+Invokedynamic: 11/16
+Reflection: 13/16
+JVM Calls: 3/5
+Serialization: 9/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 100 (81.30081300813008)
+-------------------------------------------------------------------
+===================================================================
+OPAL-CHA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 8/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 7/7
+Java 9+: 2/2
+Non-Java: 2/2
+MethodHandle: 9/9
+Invokedynamic: 11/16
+Reflection: 10/16
+JVM Calls: 3/5
+Serialization: 9/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 97 (78.86178861788618)
+-------------------------------------------------------------------
+===================================================================
+OPAL-RTA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 8/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 7/7
+Java 9+: 2/2
+Non-Java: 2/2
+MethodHandle: 9/9
+Invokedynamic: 11/16
+Reflection: 10/16
+JVM Calls: 3/5
+Serialization: 9/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 97 (78.86178861788618)
+-------------------------------------------------------------------
+===================================================================
+OPAL-XTA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 8/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 7/7
+Java 9+: 2/2
+Non-Java: 2/2
+MethodHandle: 9/9
+Invokedynamic: 11/16
+Reflection: 10/16
+JVM Calls: 3/5
+Serialization: 9/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 97 (78.86178861788618)
+-------------------------------------------------------------------
+===================================================================
+Soot-CHA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 7/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 2/4
+Signature Polymorphic Methods: 0/7
+Java 9+: 2/2
+Non-Java: 0/2
+MethodHandle: 2/9
+Invokedynamic: 11/16
+Reflection: 2/16
+JVM Calls: 4/5
+Serialization: 3/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 65 (52.84552845528455)
+-------------------------------------------------------------------
+===================================================================
+Soot-RTA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 7/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 2/4
+Signature Polymorphic Methods: 0/7
+Java 9+: 2/2
+Non-Java: 0/2
+MethodHandle: 2/9
+Invokedynamic: 11/16
+Reflection: 2/16
+JVM Calls: 4/5
+Serialization: 1/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 63 (51.21951219512195)
+-------------------------------------------------------------------
+===================================================================
+Soot-SPARK.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 7/8
+Java 8 Interfaces: 7/7
+Unsafe: 0/7
+Class.forName: 2/4
+Signature Polymorphic Methods: 0/7
+Java 9+: 2/2
+Non-Java: 0/2
+MethodHandle: 0/9
+Invokedynamic: 11/16
+Reflection: 0/16
+JVM Calls: 3/5
+Serialization: 1/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 51 (41.46341463414634)
+-------------------------------------------------------------------
+===================================================================
+WALA-0-CFA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 6/8
+Java 8 Interfaces: 7/7
+Unsafe: 0/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 0/7
+Java 9+: 1/2
+Non-Java: 2/2
+MethodHandle: 0/9
+Invokedynamic: 10/16
+Reflection: 6/16
+JVM Calls: 3/5
+Serialization: 1/14
+Library Analysis: 1/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 57 (46.34146341463415)
+-------------------------------------------------------------------
+===================================================================
+WALA-CHA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 4/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 2/4
+Signature Polymorphic Methods: 0/7
+Java 9+: 2/2
+Non-Java: 2/2
+MethodHandle: 2/9
+Invokedynamic: 0/16
+Reflection: 2/16
+JVM Calls: 2/5
+Serialization: 3/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 51 (41.46341463414634)
+-------------------------------------------------------------------
+===================================================================
+WALA-RTA.profile
+
+Non-virtual Calls: 6/6
+Virtual Calls: 4/4
+Types: 6/6
+Static Initializer: 7/8
+Java 8 Interfaces: 7/7
+Unsafe: 7/7
+Class.forName: 4/4
+Signature Polymorphic Methods: 0/7
+Java 9+: 1/2
+Non-Java: 2/2
+MethodHandle: 2/9
+Invokedynamic: 10/16
+Reflection: 3/16
+JVM Calls: 3/5
+Serialization: 1/14
+Library Analysis: 2/5
+Class Loading: 0/4
+DynamicProxy: 0/1
+
+Sum (out of 123): 65 (52.84552845528455)
+-------------------------------------------------------------------

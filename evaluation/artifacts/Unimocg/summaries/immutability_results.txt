@@ -1,0 +1,48 @@
+----------------------------------------------------------------
+algorithm: AdHocCHA
+
+ Mutable Fields: 23195
+
+ Non Transitively Immutable Fields: 24296
+
+ Dependently Immutable Fields: 108
+
+ Transitively Immutable Fields: 46368
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+algorithm: RTA
+
+ Mutable Fields: 23195
+
+ Non Transitively Immutable Fields: 7352
+
+ Dependently Immutable Fields: 316
+
+ Transitively Immutable Fields: 63104
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+algorithm: XTA
+
+ Mutable Fields: 23195
+
+ Non Transitively Immutable Fields: 2871
+
+ Dependently Immutable Fields: 316
+
+ Transitively Immutable Fields: 67585
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+algorithm: CHA
+
+ Mutable Fields: 23195
+
+ Non Transitively Immutable Fields: 25252
+
+ Dependently Immutable Fields: 20
+
+ Transitively Immutable Fields: 45500
+
+----------------------------------------------------------------
