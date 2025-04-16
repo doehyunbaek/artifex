@@ -1,0 +1,172 @@
+[[artifact]]
+title = "A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "An Empirical Examination of Fuzzer Mutator Performance"
+badges = ["Available"]
+
+[[artifact]]
+title = "An Empirical Study of Static Analysis Tools for Secure Code Review"
+badges = ["Available"]
+
+[[artifact]]
+title = "An Empirical Study on Kubernetes Operator Bugs"
+badges = ["Available"]
+
+[[artifact]]
+title = "AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference"
+badges = ["Available"]
+
+[[artifact]]
+title = "Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph"
+badges = ["Available"]
+
+[[artifact]]
+title = "Better Not Together: Staged Solving for Context-Free Language Reachability"
+badges = ["Functional"]
+
+[[artifact]]
+title = "Beyond Pairwise Testing: Advancing 3-wise Combinatorial Interaction Testing for Highly Configurable Systems"
+badges = ["Functional"]
+
+[[artifact]]
+title = "BRAFAR: Bidirectional Refactoring, Alignment, Fault Localization, and Repair for Programming Assignments"
+badges = ["Functional"]
+
+[[artifact]]
+title = "Can Graph Database Systems Correctly Handle Writing Operations? A Metamorphic Testing Approach with Graph-State Persistence Oracle"
+badges = ["Available"]
+
+[[artifact]]
+title = "CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios"
+badges = ["Available"]
+
+[[artifact]]
+title = "Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing"
+badges = ["Available"]
+
+[[artifact]]
+title = "Define-Use Guided Path Exploration for Better Forced Execution"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "Evaluating the Trustworthiness of Deep Neural Networks in Deployment - A Comparative Study (Replicability Study)"
+badges = ["Available"]
+
+[[artifact]]
+title = "Finding Cuts in Static Analysis Graphs to Debloat Software"
+badges = ["Functional"]
+
+[[artifact]]
+title = "FortifyPatch: Towards Tamper-Resistant Live Patching in Linux-Based Hypervisor"
+badges = ["Available"]
+
+[[artifact]]
+title = "FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees"
+badges = ["Available"]
+
+[[artifact]]
+title = "Inconsistencies in TeX-produced Documents"
+badges = ["Available"]
+
+[[artifact]]
+title = "Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters"
+badges = ["Functional"]
+
+[[artifact]]
+title = "Large Language Models can Connect the Dots: Exploring Model Optimization Bugs with Domain Knowledge-aware Prompts"
+badges = ["Available"]
+
+[[artifact]]
+title = "LPR: Large Language Models-Aided Program Reduction"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "NeuFair: Neural Network Fairness Repair with Dropout"
+badges = ["Available"]
+
+[[artifact]]
+title = "Neurosymbolic Repair of Test Flakiness"
+badges = ["Functional"]
+
+[[artifact]]
+title = "One Size Does Not Fit All: Multi-Granularity Patch Generation for Better Automated Program Repair"
+badges = ["Available"]
+
+[[artifact]]
+title = "One-to-One or One-to-Many? Suggesting Extract Class Refactoring Opportunities with Intra-class Dependency Hypergraph Neural Network"
+badges = ["Available"]
+
+[[artifact]]
+title = "Policy Testing with MDPFuzz (Replicability Study)"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "Prospector: Boosting Directed Grey-box Fuzzing for Large-scale Target Sets with Iterative Prioritization"
+badges = ["Available"]
+
+[[artifact]]
+title = "Revisiting Test-Case Prioritization on Long-Running Test Suites"
+badges = ["Functional"]
+
+[[artifact]]
+title = "Scalable, Sound and Accurate Jump Table Analysis"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "Sleuth: A Switchable Dual-Mode Fuzzer to Investigate Bug Impacts Following a Single PoC"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "Synthesizing Boxes Preconditions for Deep Neural Networks"
+badges = ["Functional"]
+
+[[artifact]]
+title = "Testing Gremlin-Based Graph Database Systems via Query Disassembling"
+badges = ["Available"]
+
+[[artifact]]
+title = "Total Recall? How Good are Static Call Graphs Really?"
+badges = ["Available"]
+
+[[artifact]]
+title = "Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement"
+badges = ["Available"]
+
+[[artifact]]
+title = "Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions"
+badges = ["Reusable"]
+
+[[artifact]]
+title = "Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches"
+badges = ["Available"]
+
+[[artifact]]
+title = "Unimocg: Modular Call-Graph Algorithms for Consistent Handling of Language Features"
+badges = ["Reusable"]
+award = ["Best Artifact Award"]
+
+[[artifact]]
+title = "UniTSyn: A Large-Scale Dataset Capable of Enhancing the Prowess of Large Language Models for Program Testing"
+badges = ["Available"]
+
+[[artifact]]
+title = "Upbeat: Test Input Checks of Q# Quantum Libraries"
+badges = ["Functional"]
+
+[[artifact]]
+title = "VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-guided Simulation Testing"
+badges = ["Functional"]
+
+[[artifact]]
+title = "VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction"
+badges = ["Functional"]
+
+[[artifact]]
+title = "Wapplique: Testing WebAssembly Runtime via Execution Context-aware Bytecode Mutation"
+badges = ["Available"]
+
+[[artifact]]
+title = "WASMaker: Differential Testing of WebAssembly Runtimes via Semantic-aware Binary Generation"
+badges = ["Reusable"]
