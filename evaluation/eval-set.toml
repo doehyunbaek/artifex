@@ -1,172 +1,135 @@
 [[artifact]]
-title = "A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "An Empirical Examination of Fuzzer Mutator Performance"
-badges = ["Available"]
-
-[[artifact]]
-title = "An Empirical Study of Static Analysis Tools for Secure Code Review"
-badges = ["Available"]
-
-[[artifact]]
-title = "An Empirical Study on Kubernetes Operator Bugs"
-badges = ["Available"]
-
-[[artifact]]
-title = "AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference"
-badges = ["Available"]
-
-[[artifact]]
-title = "Automated Data Binding Vulnerability Detection for Java Web Frameworks via Nested Property Graph"
-badges = ["Available"]
-
-[[artifact]]
-title = "Better Not Together: Staged Solving for Context-Free Language Reachability"
-badges = ["Functional"]
-
-[[artifact]]
-title = "Beyond Pairwise Testing: Advancing 3-wise Combinatorial Interaction Testing for Highly Configurable Systems"
-badges = ["Functional"]
-
-[[artifact]]
-title = "BRAFAR: Bidirectional Refactoring, Alignment, Fault Localization, and Repair for Programming Assignments"
-badges = ["Functional"]
-
-[[artifact]]
-title = "Can Graph Database Systems Correctly Handle Writing Operations? A Metamorphic Testing Approach with Graph-State Persistence Oracle"
-badges = ["Available"]
-
-[[artifact]]
-title = "CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios"
-badges = ["Available"]
-
-[[artifact]]
-title = "Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing"
-badges = ["Available"]
-
-[[artifact]]
-title = "Define-Use Guided Path Exploration for Better Forced Execution"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "Evaluating the Trustworthiness of Deep Neural Networks in Deployment - A Comparative Study (Replicability Study)"
-badges = ["Available"]
-
-[[artifact]]
-title = "Finding Cuts in Static Analysis Graphs to Debloat Software"
-badges = ["Functional"]
-
-[[artifact]]
-title = "FortifyPatch: Towards Tamper-Resistant Live Patching in Linux-Based Hypervisor"
-badges = ["Available"]
-
-[[artifact]]
-title = "FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees"
-badges = ["Available"]
-
-[[artifact]]
-title = "Inconsistencies in TeX-produced Documents"
-badges = ["Available"]
-
-[[artifact]]
-title = "Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters"
-badges = ["Functional"]
-
-[[artifact]]
-title = "Large Language Models can Connect the Dots: Exploring Model Optimization Bugs with Domain Knowledge-aware Prompts"
-badges = ["Available"]
-
-[[artifact]]
-title = "LPR: Large Language Models-Aided Program Reduction"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "NeuFair: Neural Network Fairness Repair with Dropout"
-badges = ["Available"]
-
-[[artifact]]
-title = "Neurosymbolic Repair of Test Flakiness"
-badges = ["Functional"]
-
-[[artifact]]
-title = "One Size Does Not Fit All: Multi-Granularity Patch Generation for Better Automated Program Repair"
-badges = ["Available"]
-
-[[artifact]]
-title = "One-to-One or One-to-Many? Suggesting Extract Class Refactoring Opportunities with Intra-class Dependency Hypergraph Neural Network"
-badges = ["Available"]
-
-[[artifact]]
-title = "Policy Testing with MDPFuzz (Replicability Study)"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "Prospector: Boosting Directed Grey-box Fuzzing for Large-scale Target Sets with Iterative Prioritization"
-badges = ["Available"]
-
-[[artifact]]
-title = "Revisiting Test-Case Prioritization on Long-Running Test Suites"
-badges = ["Functional"]
-
-[[artifact]]
-title = "Scalable, Sound and Accurate Jump Table Analysis"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "Sleuth: A Switchable Dual-Mode Fuzzer to Investigate Bug Impacts Following a Single PoC"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "Synthesizing Boxes Preconditions for Deep Neural Networks"
-badges = ["Functional"]
-
-[[artifact]]
-title = "Testing Gremlin-Based Graph Database Systems via Query Disassembling"
-badges = ["Available"]
-
-[[artifact]]
-title = "Total Recall? How Good are Static Call Graphs Really?"
-badges = ["Available"]
-
-[[artifact]]
-title = "Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement"
-badges = ["Available"]
-
-[[artifact]]
-title = "Toward the Automated Localization of Buggy Mobile App UIs from Bug Descriptions"
-badges = ["Reusable"]
-
-[[artifact]]
-title = "Understanding Misconfigurations in ROS: An Empirical Study and Current Approaches"
-badges = ["Available"]
-
-[[artifact]]
 title = "Unimocg: Modular Call-Graph Algorithms for Consistent Handling of Language Features"
-badges = ["Reusable"]
+conference = "ISSTA"
+year = 2024
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3650212.3652109"
+artifact_link = "https://doi.org/10.5281/zenodo.10890011"
+
+[[artifact]]
+title = "AGORA: Automated Generation of Test Oracles for REST APIs"
+conference = "ISSTA"
+year = 2023
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3597926.3598114"
+artifact_link = "https://zenodo.org/records/7970822"
+
+[[artifact]]
+title = "GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper)"
+conference = "ISSTA"
+year = 2023
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3597926.3598095"
+artifact_link = "https://doi.org/10.5281/zenodo.7922486"
+
+[[artifact]]
+title = "Reducing the Memory Footprint of IFDS-Based Data-Flow Analyses using Fine-Grained Garbage Collection"
+conference = "ISSTA"
+year = 2023
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3597926.3598041"
+artifact_link = "https://doi.org/10.1145/3597926.3598041"
+
+[[artifact]]
+title = "That’s a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly"
+conference = "ISSTA"
+year = 2023
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3597926.3598104"
+artifact_link = "https://doi.org/10.5281/zenodo.7977752"
+
+# TODO: check ISSTA 2022 artifact award winners
+
+[[artifact]]
+title = "Automated Patch Backporting in Linux (Experience Paper)"
+conference = "ISSTA"
+year = 2021
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3460319.3464821"
+artifact_link = "https://doi.org/10.5281/zenodo.7977752"
+
+[[artifact]]
+title = "Finding data compatibility bugs with JSON subschema checking"
+conference = "ISSTA"
+year = 2021
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3597926.3598104"
+artifact_link = "https://zenodo.org/record/4759197"
+
+[[artifact]]
+title = "Data loss detector: automatically revealing data loss bugs in Android apps"
+conference = "ISSTA"
+year = 2020
+badges = ["Available", "Reusable", "Functional"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3395363.3397379"
+artifact_link = "https://doi.org/10.5281/zenodo.3897315"
+
+[[artifact]]
+title = "Discovering Discrepancies in Numerical Libraries"
+conference = "ISSTA"
+year = 2020
+badges = ["Available", "Reusable", "Functional"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3395363.3397380"
+artifact_link = "https://doi.org/10.5281/zenodo.3862978"
+
+[[artifact]]
+title = "Feasible and stressful trajectory generation for mobile robots"
+conference = "ISSTA"
+year = 2020
+badges = ["Available", "Reusable", "Functional"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3395363.3397380"
+artifact_link = "https://doi.org/10.5281/zenodo.3901626"
+
+# TODO: check ISSTA 2019 artifact award winners
+
+[[artifact]]
+title = "Semantic Fuzzing with Zest"
+conference = "ISSTA"
+year = 2019
+badges = ["Available", "Reusable", "Functional"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3293882.3330576"
+artifact_link = "https://dl.acm.org/do/10.1145/3339069/full/"
+
+[[artifact]]
+title = "Tests from traces: automated unit test extraction for R"
+conference = "ISSTA"
+year = 2018
+badges = ["Available", "Reusable"]
+award = ["Distinguished Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/3213846.3213863"
+artifact_link = "https://doi.org/10.5281/zenodo.1306437"
+
+# TODO: check ISSTA 2017 artifact award winners
+
+# TODO: check ISSTA 2016 artifact award winners
+
+[[artifact]]
+title = "Feedback-controlled random test generation"
+conference = "ISSTA"
+year = 2015
+badges = ["Evaluated"]
 award = ["Best Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/2771783.2771805"
+artifact_link = "https://www.klazz.net/pub/issta2015/135-update.zip"
 
 [[artifact]]
-title = "UniTSyn: A Large-Scale Dataset Capable of Enhancing the Prowess of Large Language Models for Program Testing"
-badges = ["Available"]
+title = "Covrig: A Framework for the Analysis of Code, Test, and Coverage Evolution in Real Software"
+conference = "ISSTA"
+year = 2014
+badges = ["Evaluated"]
+award = ["Best Artifact Award"]
+paper_link = "https://dl.acm.org/doi/pdf/10.1145/2610384.2610419"
+artifact_link = "https://srg.doc.ic.ac.uk/projects/covrig/"
 
-[[artifact]]
-title = "Upbeat: Test Input Checks of Q# Quantum Libraries"
-badges = ["Functional"]
-
-[[artifact]]
-title = "VioHawk: Detecting Traffic Violations of Autonomous Driving Systems through Criticality-guided Simulation Testing"
-badges = ["Functional"]
-
-[[artifact]]
-title = "VRDSynth: Synthesizing Programs for Multilingual Visually Rich Document Information Extraction"
-badges = ["Functional"]
-
-[[artifact]]
-title = "Wapplique: Testing WebAssembly Runtime via Execution Context-aware Bytecode Mutation"
-badges = ["Available"]
-
-[[artifact]]
-title = "WASMaker: Differential Testing of WebAssembly Runtimes via Semantic-aware Binary Generation"
-badges = ["Reusable"]
+# Seems like Artifact Evaluation started since ISSTA 2014
