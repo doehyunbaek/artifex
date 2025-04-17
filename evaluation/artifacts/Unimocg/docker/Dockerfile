@@ -106,11 +106,15 @@ git reset --hard ${OPAL_COMMIT_ID} && \
 sbt publishLocal
 #
 ## INSTALL JCG 
+ARG JCG_BRANCH="master"
+ARG JCG_COMMIT_ID="325b1b475b292858ade9f3e0d68fb940c5a47e6d"
 RUN cd / && \ 
 mkdir JCG && \
 cd /JCG && \
 git clone https://github.com/opalj/JCG.git && \
 cd /JCG/JCG && \
+git checkout ${JCG_BRANCH} && \
+git reset --hard ${JCG_COMMIT_ID} && \
 sbt compile && \
 sbt "project jcg_testcases ; runMain TestCaseExtractor --rsrcDir jcg_testcases/src/main/resources"
 RUN cp -r /JCG/JCG/testcaseJars/* /evaluation/testcases
