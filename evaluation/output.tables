@@ -1,0 +1,57 @@
+
+===== table_1 =====
+               Feature     CHA      RTA    0-CFA      CHA      RTA    SPARK
+0    Non-virtual Calls   ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6
+1        Virtual Calls   ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4
+2                Types   ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6
+3   Static Initializer   ✓ 4/8    ✓ 7/8    ✓ 6/8    ✓ 7/8    ✓ 7/8    ✓ 7/8
+4    Java 8 Interfaces   ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7
+5               Unsafe   ✓ 7/7    ✓ 7/7    ✓ 0/7    ✓ 7/7    ✓ 7/7    ✓ 0/7
+6        Class.forName   ✓ 2/4    ✓ 4/4    ✓ 4/4    ✓ 2/4    ✓ 2/4    ✓ 2/4
+7     Sign. Polymorph.   ✓ 0/7    ✓ 0/7    ✓ 0/7    ✓ 0/7    ✓ 0/7    ✓ 0/7
+8              Java 9+   ✓ 2/2    ✓ 1/2    ✓ 1/2    ✓ 2/2    ✓ 2/2    ✓ 2/2
+9             Non-Java   ✓ 2/2    ✓ 2/2    ✓ 2/2    ✓ 0/2    ✓ 0/2    ✓ 0/2
+10        MethodHandle   ✓ 2/9    ✓ 2/9    ✓ 0/9    ✓ 2/9    ✓ 2/9    ✓ 0/9
+11       Invokedynamic  ✓ 0/16  ✓ 10/16  ✓ 10/16  ✓ 11/16  ✓ 11/16  ✓ 11/16
+12          Reflection  ✓ 2/16   ✓ 3/16   ✓ 6/16   ✓ 2/16   ✓ 2/16   ✓ 0/16
+13           JVM Calls   ✓ 2/5    ✓ 3/5    ✓ 3/5    ✓ 4/5    ✓ 4/5    ✓ 3/5
+14       Serialization  ✓ 3/14   ✓ 1/14   ✓ 1/14   ✓ 3/14   ✓ 1/14   ✓ 1/14
+15    Library Analysis   ✓ 2/5    ✓ 2/5    ✓ 1/5    ✓ 2/5    ✓ 2/5    ✓ 2/5
+16       Class Loading   ✓ 0/4    ✓ 0/4    ✓ 0/4    ✓ 0/4    ✓ 0/4    ✓ 0/4
+17        DynamicProxy   ✓ 0/1    ✓ 0/1    ✓ 0/1    ✓ 0/1    ✓ 0/1    ✓ 0/1
+
+===== table_2 =====
+               Feature      CHA      RTA      XTA    0-CFA  1-1-CFA
+0    Non-virtual Calls    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6
+1        Virtual Calls    ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4
+2                Types    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6    ✓ 6/6
+3   Static Initializer    ✓ 8/8    ✓ 8/8    ✓ 8/8    ✓ 8/8    ✓ 8/8
+4    Java 8 Interfaces    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7
+5               Unsafe    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7
+6        Class.forName    ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4    ✓ 4/4
+7     Sign. Polymorph.    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7    ✓ 7/7
+8              Java 9+    ✓ 2/2    ✓ 2/2    ✓ 2/2    ✓ 2/2    ✓ 2/2
+9             Non-Java    ✓ 2/2    ✓ 2/2    ✓ 2/2    ✓ 2/2    ✓ 2/2
+10        MethodHandle    ✓ 9/9    ✓ 9/9    ✓ 9/9    ✓ 9/9    ✓ 9/9
+11       Invokedynamic  ✓ 11/16  ✓ 11/16  ✓ 11/16  ✓ 11/16  ✓ 11/16
+12          Reflection  ✓ 10/16  ✓ 10/16  ✓ 10/16  ✓ 10/16  ✓ 13/16
+13           JVM Calls    ✓ 3/5    ✓ 3/5    ✓ 3/5    ✓ 3/5    ✓ 3/5
+14       Serialization   ✓ 9/14   ✓ 9/14   ✓ 9/14   ✓ 9/14   ✓ 9/14
+15    Library Analysis    ✓ 2/5    ✓ 2/5    ✓ 2/5    ✓ 2/5    ✓ 2/5
+16       Class Loading    ✓ 0/4    ✓ 0/4    ✓ 0/4    ✓ 0/4    ✓ 0/4
+17        DynamicProxy    ✓ 0/1    ✓ 0/1    ✓ 0/1    ✓ 0/1    ✓ 0/1
+
+===== table_3 =====
+    Project  Soot CHA #RM  Soot CHA time  WALA CHA #RM  WALA CHA time  Unimocg CHA #RM  Unimocg CHA time  Soot RTA #RM  Soot RTA time  WALA RTA #RM  WALA RTA time  Unimocg RTA #RM  Unimocg RTA time  WALA 0-CFA #RM  WALA 0-CFA time  Unimocg 0-CFA #RM  Unimocg 0-CFA time
+0     jasml        125408            247        111761              8           131680                39         17258            105         98497            563            10919                16           16100               16               9178                  38
+1    javacc        126230            236        112582              8           132508                36         18052            118         99322            541            11711                15           16884               17               9970                  46
+2      jext        127960            245        114271              8           134348                42         34017            372        102088            561            23577                18           66322             2170              19463                  86
+3  proguard        130022            256        116381              8           136333                40         35155            397        102904            584            14966                17           20071               20              13050                  44
+4   sablecc        127274            242        113630              8           133552                39         18970            129        100287            557            12636                15           17714               18              10789                  45
+
+===== table_4 =====
+    Algorithm mutable ⊒ non-trans. ⊒ depen. ⊒ trans.
+0  Ad-hoc CHA   23195        24296      108    46368
+1         CHA   23195        25252       20    45500
+2         RTA   23195         7352      316    63104
+3         XTA   23195         2871      316    67585
