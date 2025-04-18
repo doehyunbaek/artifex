@@ -62,7 +62,7 @@ def extract_tables_from_markdown(input_md_path, output_js_path):
 
     # Call OpenAI API
     response = client.chat.completions.create(
-        model="gpt-4.1",
+        model="gpt-4.1", # TODO: use cheaper models
         messages=messages,
         max_tokens=32768,
         temperature=0
